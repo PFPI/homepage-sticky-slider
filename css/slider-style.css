@@ -87,9 +87,9 @@
     margin-top: 15px;
     margin-bottom: 30px; /* Added margin to push pagination dots down */
     padding: 10px 18px;
-    background-color: #0073aa; /* A standard WordPress blue */
+    background-color: #3246af; /* A standard WordPress blue */
     color: #fff;
-    border-radius: 5px; /* Slightly rounded corners */
+    border-radius: 15px; /* Slightly rounded corners */
     text-decoration: none;
     font-weight: bold;
     transition: background-color 0.2s ease-in-out;
